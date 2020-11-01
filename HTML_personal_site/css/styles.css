@@ -1,0 +1,27 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 10px;
+  border-color: grey
+}
+
+img {
+  height: 150px
+}
+img:hover{
+  background-color: black;
+}
+h1 {
+  color: #66BFBF;
+}
+h1:hover{
+  background-color: red;
+}
+h3 {
+  color : #66BFBF;
+}
